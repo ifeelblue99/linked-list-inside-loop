@@ -10,7 +10,7 @@ function Node(data){
   this.next = null
 }
 
-// se up
+// set up
 nodeHead = new Node("head")
 node2 = new Node("2")
 node3 = new Node("3")
